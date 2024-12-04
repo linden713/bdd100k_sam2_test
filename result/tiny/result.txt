@@ -1,0 +1,34 @@
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.523
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.891
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.525
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.390
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.568
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.740
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.369
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.547
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.564
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.444
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.607
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.803
+0.5233138981525424: 0.523
+0.8912652145440122: 0.891
+0.5248086142925242: 0.525
+0.39032106011931733: 0.390
+0.5683579806420929: 0.568
+0.7397282549208313: 0.740
+0.3694120717003654: 0.369
+0.5465721074064782: 0.547
+0.5635511624075382: 0.564
+0.4435754788168582: 0.444
+0.6074417957209687: 0.607
+0.8027632223827095: 0.803
+
+每个类别的 IoU：
+pedestrian: 0.8810
+rider: 0.8739
+car: 0.8511
+truck: 0.8459
+bus: 0.8434
+train: 0.8298
+motorcycle: 0.8215
+bicycle: 0.8154
