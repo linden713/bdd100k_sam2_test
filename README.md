@@ -3,6 +3,10 @@
 This project focuses on applying **SAM2** for autonomous driving instance segmentation tasks using the **BDD100K dataset**. The objective is to implement a model capable of detecting and segmenting objects from the dataset in real time.
 
 ---
+<center class ='img'>
+<img title="Visual Result 1" src="https://github.com/linden713/bdd100k_sam2_test/blob/main/visual_result/masked_7d06fefd-f7be05a6.jpg" width="45%">
+<img title="Visual Result 2" src="https://github.com/linden713/bdd100k_sam2_test/blob/main/visual_result/masked_7d97d173-09388af3.jpg" width="45%">
+</center>
 
 ## Usage
 
@@ -104,3 +108,5 @@ This folder stores the results generated during the testing phase.
 ## Summary
 
 This project leverages the BDD100K dataset to perform instance segmentation for autonomous driving, utilizing the SAM2 model to handle the task effectively. The structure of the project is organized to streamline training, validation, testing, and result visualization.
+
+## MIT Lisence
