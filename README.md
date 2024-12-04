@@ -4,8 +4,10 @@ This project focuses on applying **SAM2** for autonomous driving instance segmen
 
 ---
 <center class ='img'>
-<img title="Visual Result 1" src="https://github.com/linden713/bdd100k_sam2_test/blob/main/visual_result/masked_7d06fefd-f7be05a6.jpg" width="45%">
-<img title="Visual Result 2" src="https://github.com/linden713/bdd100k_sam2_test/blob/main/visual_result/masked_7d97d173-09388af3.jpg" width="45%">
+<img title="Visual Result 1" src="https://github.com/linden713/bdd100k_sam2_test/blob/main/visual_result/masked_7d06fefd-f7be05a6.jpg" width="45%"> <img title="Visual Result 2" src="https://github.com/linden713/bdd100k_sam2_test/blob/main/visual_result/masked_7dc08598-f42e2015.jpg" width="45%">
+
+<img title="Visual Result 2" src="https://github.com/linden713/bdd100k_sam2_test/blob/main/visual_result/masked_7d97d173-09388af3.jpg" width="45%"> <img title="Visual Result 2" src="https://github.com/linden713/bdd100k_sam2_test/blob/main/visual_result/masked_7de0a101-68335d0a.jpg.jpg" width="45%">
+
 </center>
 
 ## Usage
@@ -109,4 +111,4 @@ This folder stores the results generated during the testing phase.
 
 This project leverages the BDD100K dataset to perform instance segmentation for autonomous driving, utilizing the SAM2 model to handle the task effectively. The structure of the project is organized to streamline training, validation, testing, and result visualization.
 
-## MIT Lisence
+## MIT License
